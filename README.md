@@ -1,4 +1,4 @@
-# Hi, I'm 정형륜 👋
+# 안녕하십니까 yuta.jeong(정형륜) 👋
 
 **WEB/APP Developer · JAVA**
 
