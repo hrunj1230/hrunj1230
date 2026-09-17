@@ -1,5 +1,8 @@
 # 안녕하십니까 yuta.jeong(정형륜) 👋
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/defense-dark.svg">
+  <img alt="Contribution Defense" src="dist/defense-light.svg" width="100%">
+</picture>
 **WEB/APP Developer · JAVA**
 
 코코아와 캐시맵에서 6년 7개월 동안 전자증빙을 고객사 그룹웨어에 붙여 왔습니다.  
